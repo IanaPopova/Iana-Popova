@@ -4,7 +4,7 @@
 
 ### Хочу немного рассказать о себе!
 
-Изучаю профессию Тестировщика ПО в Нетологии.
+Тестировщик ПО
 ---
 ### Мои навыки: ###
 - [x] Использование актуальных теорий тестирования
@@ -26,16 +26,17 @@
 ---
 ### Тестовая документация:
 
-- [Чек-лист](https://docs.google.com/spreadsheets/d/16vp78o31f2LiQGz6mL4Tn6DeCNXNT7X0RO_a33_UBZM/edit#gid=0)
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1aOG-S6uShuhLDKUYHmQ0Z-CwZa-Rvcmc2ZrFuVjg3wU/edit#gid=929335511)
-- [Баг-репорты Jira](https://drive.google.com/drive/folders/1g0Yx5Iu-XF_3iVanQegUtWVoKPUBGH5w)
-- [Баг-репорты XL](https://docs.google.com/spreadsheets/d/1UloxAZA3JkbFBEc1mMJX7fKDlVsr8Dnm/edit#gid=140900179)
-- [Тестирование верстки с помощью DevTools](https://drive.google.com/drive/folders/1E-zbT6JfZ7bLaBx17Y5LSSIA9Xrf-bxp)
+- Создание [чек-листа](https://docs.google.com/spreadsheets/d/16vp78o31f2LiQGz6mL4Tn6DeCNXNT7X0RO_a33_UBZM/edit#gid=0) к личному кабинету
+  
+-  Создание  [тест-кейсов](https://docs.google.com/spreadsheets/d/1aOG-S6uShuhLDKUYHmQ0Z-CwZa-Rvcmc2ZrFuVjg3wU/edit#gid=929335511) для функции восстановления пароля
+- Создание [баг-репортов в Jira](https://drive.google.com/drive/folders/1g0Yx5Iu-XF_3iVanQegUtWVoKPUBGH5w) для сайта мужской одежды.
+- Создание [баг-репортов в Excel](https://docs.google.com/spreadsheets/d/1UloxAZA3JkbFBEc1mMJX7fKDlVsr8Dnm/edit#gid=140900179) по локализации в рамках работы в Janus
+- [Тестирование верстки с помощью DevTools](https://drive.google.com/drive/folders/1E-zbT6JfZ7bLaBx17Y5LSSIA9Xrf-bxp) в рамках обучения
 
 ---
 
 ### HTML и CSS:
-- [Теги для вёрстки структуры контента (CSS)](https://codepen.io/Yana-Popova/pen/rNbwXgG)
-- [Контентные теги (CSS)](https://codepen.io/Yana-Popova/pen/OJGmxMb?editors=1100)
+- Использование [тегов для вёрстки структуры контента (CSS)](https://codepen.io/Yana-Popova/pen/rNbwXgG)
+- Использование [контентных тегов (CSS)](https://codepen.io/Yana-Popova/pen/OJGmxMb?editors=1100)
 - [Базовый навык HTML и CSS ](https://codepen.io/Yana-Popova/pen/wvZgOEv)
 
