@@ -32,6 +32,7 @@
 - Создание [баг-репортов в Jira](https://drive.google.com/drive/folders/1g0Yx5Iu-XF_3iVanQegUtWVoKPUBGH5w) для сайта мужской одежды.
 - Создание [баг-репортов в Excel](https://docs.google.com/spreadsheets/d/1UloxAZA3JkbFBEc1mMJX7fKDlVsr8Dnm/edit#gid=140900179) по локализации в рамках работы в Janus
 - [Тестирование верстки с помощью DevTools](https://drive.google.com/drive/folders/1E-zbT6JfZ7bLaBx17Y5LSSIA9Xrf-bxp) в рамках обучения
+- Составление [баг-репорта в GitHub](https://github.com/IanaPopova/NetologyJavaHW4-1/issues/1)
 
 ---
 
@@ -40,3 +41,9 @@
 - Использование [контентных тегов (CSS)](https://codepen.io/Yana-Popova/pen/OJGmxMb?editors=1100)
 - [Базовый навык HTML и CSS ](https://codepen.io/Yana-Popova/pen/wvZgOEv)
 
+---
+
+### Работа с Java:
+- [Примитивные типы данных, условные операторы](https://github.com/IanaPopova/NetologyJavaHW2-2-/blob/main/src/Main.java)
+- [Testability, основы ООП](https://github.com/IanaPopova/NetologyJavaHW3-2/tree/main/src)
+- [Работа в Maven и автотесты](https://github.com/IanaPopova/NetologyJavaHW4-1/tree/main/src) 
