@@ -46,4 +46,7 @@
 ### Работа с Java:
 - [Примитивные типы данных, условные операторы](https://github.com/IanaPopova/NetologyJavaHW2-2-/blob/main/src/Main.java)
 - [Testability, основы ООП](https://github.com/IanaPopova/NetologyJavaHW3-2/tree/main/src)
-- [Работа в Maven и автотесты](https://github.com/IanaPopova/NetologyJavaHW4-1/tree/main/src) 
+- [Работа в Maven и автотесты](https://github.com/IanaPopova/NetologyJavaHW4-1/tree/main/src)
+- [Массивы](https://github.com/IanaPopova/NetologyJavaHW6)
+- [Непрерывная интеграция](https://github.com/IanaPopova/NetologyJavaHW7-1)
+- [ООП - ключевые принципы](https://github.com/IanaPopova/NetologyJavaHW8)
