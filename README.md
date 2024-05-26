@@ -50,3 +50,4 @@
 - [Массивы](https://github.com/IanaPopova/NetologyJavaHW6)
 - [Непрерывная интеграция](https://github.com/IanaPopova/NetologyJavaHW7-1)
 - [ООП - ключевые принципы](https://github.com/IanaPopova/NetologyJavaHW8)
+- [Инкапсуляция, конструкторы, работа с CI](https://github.com/IanaPopova/NetologyJavaHW9) 
