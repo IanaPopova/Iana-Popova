@@ -7,15 +7,28 @@
 Тестировщик ПО
 ---
 ### Мои навыки: ###
-- [x] Использование актуальных теорий тестирования
-- [x] Понимание жизненного цикла разработки программного обеспечения
-- [x] Ручное тестирование веб-приложений
-- [x] Работа с системой контроль версий Git, платформой GitHub
-- [x] Тестирование локализации
-- [x] Составление тестовой документации
-- [x] Основы Markdown
-- [X] Использование DevTools  
-- [X] Базовые принципы работы с CSS и HTML 
+<ul>
+  <li><span style="color:green">✔</span> Использование актуальных теорий тестирования</li>
+  <li><span style="color:green">✔</span> Понимание жизненного цикла разработки программного обеспечения</li>
+  <li><span style="color:green">✔</span> Ручное тестирование веб-приложений</li>
+  <li><span style="color:green">✔</span> Работа с системой контроля версий Git, платформой GitHub, GitLab</li>
+  <li><span style="color:green">✔</span> Составление тестовой документации</li>
+  <li><span style="color:green">✔</span> Тестирование локализации</li>
+  <li><span style="color:green">✔</span> Использование DevTools</li>
+  <li><span style="color:green">✔</span> Основы ООП</li>
+  <li><span style="color:green">✔</span> Fork</li>
+  <li><span style="color:green">✔</span> Unity</li>
+  <li><span style="color:green">✔</span> UnityHub</li>
+  <li><span style="color:green">✔</span> Qase io, DoQA</li>
+  <li><span style="color:green">✔</span> Работа с облачными сервисами: AWS, Cyberduck</li>
+  <li><span style="color:green">✔</span> Инструменты: Appium, UI Automator, Puppeteer, Playwright, Espresso (в процессе освоения)</li>
+  <li><span style="color:green">✔</span> Написание автотестов на Python (Airtest, Poco)</li>
+  <li><span style="color:green">✔</span> Ручное и автоматизированное тестирование (Web, Android)</li>
+  <li><span style="color:green">✔</span> ADB для логирования</li>
+  <li><span style="color:green">✔</span> Использование Android Studio (автотесты, использование эмуляторов)</li>
+  <li><span style="color:green">✔</span> Selenide, Selenium</li>
+</ul>
+ 
 ---
 
 -  Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ynappva@gmail.com) <a href="https://t.me/wonderyana/" target="_blank">
@@ -43,6 +56,15 @@
 
 ---
 
+### Работа с различными фреймворками:
+- [UIAutomator](https://github.com/IanaPopova/UIAutomator2/blob/main/app/src/androidTest/kotlin/ru/netology/testing/uiautomator/ChangeTextTest.kt)
+- [Appium](https://github.com/IanaPopova/Appium/blob/main/src/test/java/ru/netology/qa/UITest.java)
+- [Playwright](https://github.com/IanaPopova/PlaywrightStartHW/blob/main/tests/auth.spec.js)
+- [Selenium](https://github.com/IanaPopova/NetologySelenium/blob/main/src/test/java/ru/netology/web/DebitCardOrderFormTest.java)
+- [Selenide](https://github.com/IanaPopova/NetologySelenide/blob/main/src/test/java/ru/netology/web/CardDeliveryTest.java)
+
+---
+
 ### Работа с Java:
 - [Примитивные типы данных, условные операторы](https://github.com/IanaPopova/NetologyJavaHW2-2-/blob/main/src/Main.java)
 - [Testability, основы ООП](https://github.com/IanaPopova/NetologyJavaHW3-2/tree/main/src)
@@ -51,3 +73,6 @@
 - [Непрерывная интеграция](https://github.com/IanaPopova/NetologyJavaHW7-1)
 - [ООП - ключевые принципы](https://github.com/IanaPopova/NetologyJavaHW8)
 - [Инкапсуляция, конструкторы, работа с CI](https://github.com/IanaPopova/NetologyJavaHW9) 
+
+---
+
